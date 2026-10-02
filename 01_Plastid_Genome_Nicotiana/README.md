@@ -10,7 +10,7 @@
 
 **Source:** https://www.ncbi.nlm.nih.gov/nuccore/NC_001879.2
 
-**Date retrieved:** Octoer 1, 2026
+**Date retrieved:** October 1, 2026
 
 ## Plastome summary
 Circular plastid genome of 155,943 bp with 37.85% GC content. It has the
