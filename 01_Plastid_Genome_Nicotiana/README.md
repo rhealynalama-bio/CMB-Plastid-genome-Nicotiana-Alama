@@ -1,5 +1,3 @@
-# Report
-
 # Characterization of a Plastid Genome: *Nicotiana tabacum*
 
 **Student:** Rhealy F. Alama
