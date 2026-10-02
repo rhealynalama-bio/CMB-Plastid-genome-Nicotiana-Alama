@@ -19,14 +19,17 @@
 7. rbcL: encodes the large subunit of RuBisCO, which fixes CO2 in the
    Calvin cycle of photosynthesis.
 
-8. Genes are drawn on both the outside and inside of the circle, which
-   shows they are transcribed in both directions (clockwise and
-   counterclockwise, as the map arrows indicate) from both DNA strands.
-   Transcription is therefore not in one direction around the genome.
+8. Genes are drawn on both the outside and the inside of the ring. Following the
+   two arrows on the map, genes on the outer side are transcribed counterclockwise
+   and genes on the inner side clockwise. This shows that genes are transcribed
+   from both DNA strands, so transcription does not run in a single direction
+   around the genome.
 
-9. GC content is not uniform. (Describe your graph: the IR regions
-   appear higher in GC, probably because of the rRNA genes, and the
-   single-copy regions, especially the SSC, appear lower.)
+9. GC content is not uniform; it varies among regions. The inner GC graph shows
+   higher GC in the two inverted repeats (about 43% in the genome sequence)
+   than in the large single-copy region (about 36%), and the small single-copy
+   region is the lowest (about 32%). The IRs are probably higher because they
+   carry the GC-rich rRNA genes. Overall GC is 37.85%.
 
 10. A map shows region boundaries, gene order and position, strand
     direction, gene groups, repeated regions and GC variation at a
