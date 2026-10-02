@@ -1,11 +1,15 @@
 # Characterization of a Plastid Genome: *Nicotiana tabacum*
 
 **Student:** Rhealy F. Alama
+
 **Course/Section:** Cell and Molecular Biology- B
 
 **Species:** *Nicotiana tabacum*
+
 **NCBI accession/version:** NC_001879.2
+
 **Source:** https://www.ncbi.nlm.nih.gov/nuccore/NC_001879.2
+
 **Date retrieved:** Octoer 1, 2026
 
 ## Plastome summary
