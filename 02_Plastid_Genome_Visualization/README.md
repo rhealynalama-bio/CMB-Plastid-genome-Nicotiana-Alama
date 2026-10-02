@@ -1,13 +1,12 @@
 # Visualize Plastid Genome Structure
 
-**Name:** Rhealyn F. Alama
-**Course:** Cell and Molecular Biology
-
-**Scientific name:** *Nicotiana tabacum* (common tobacco)
-**NCBI accession:** NC_001879.2
-**Plastid genome length:** 155,943 bp
-**Source of genome file:** NCBI Nucleotide (RefSeq), annotated GenBank format
-**Software used:** OGDRAW (OrganellarGenomeDRAW) v1.3.1, https://chlorobox.mpimp-golm.mpg.de/OGDraw.html
+- **Name:** Rhealyn F. Alama
+- **Course:** Cell and Molecular Biology
+- **Scientific name:** *Nicotiana tabacum* (common tobacco)
+- **NCBI accession:** NC_001879.2
+- **Plastid genome length:** 155,943 bp
+- **Source of genome file:** NCBI Nucleotide (RefSeq), annotated GenBank format
+- **Software used:** OGDRAW (OrganellarGenomeDRAW) v1.3.1, https://chlorobox.mpimp-golm.mpg.de/OGDraw.html
 
 ## OGDRAW settings
 Standard map mode; GenBank file uploaded; circular map; plastid as the
@@ -16,7 +15,7 @@ direction of transcription, full legend and intron asterisks enabled; PNG
 output.
 
 ## Plastid genome map
-![Plastid genome map](Figures/Nicotiana_tabacum_plastid_map.png)
+![Plastid genome map](02_Figures/Nicotiana_tabacum_plastid_map.png)
 
 ## Main structural features
 The *N. tabacum* plastome has the typical quadripartite structure: a large
@@ -31,4 +30,4 @@ genes are marked with an asterisk (e.g., rpl2*, ndhB*, petB*). The GC content
 graph varies among regions rather than being uniform.
 
 ## Answers
-See [Answers/Lab_plastid_genome_answers.md](Answers/Lab_plastid_genome_answers.md)
+See [03_Answers/Lab_plastid_genome_answers.md](03_Answers/Lab_plastid_genome_answers.md)
