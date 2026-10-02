@@ -1,4 +1,4 @@
-# *Report
+# Report
 
 # Characterization of a Plastid Genome: *Nicotiana tabacum*
 
