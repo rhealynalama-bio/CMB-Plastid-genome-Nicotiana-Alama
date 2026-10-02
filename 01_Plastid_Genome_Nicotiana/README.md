@@ -1,6 +1,6 @@
 # Characterization of a Plastid Genome: *Nicotiana tabacum*
 
-**Student:** Rhealy F. Alama
+**Student:** Rhealyn F. Alama
 
 **Course/Section:** Cell and Molecular Biology- B
 
