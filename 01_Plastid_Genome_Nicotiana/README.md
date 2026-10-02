@@ -28,7 +28,7 @@ uploaded to usegalaxy.org and detected as fasta.
 
 **Tools used:** Fasta Statistics
 
-01_Plastid_Genome_Nicotiana/Figures/galaxy_history_fasta_stats.png
+![Galaxy history and FASTA statistics](Figures/galaxy_history_fasta_stats.png)
 
 ## Gene content and observations
 The GenBank annotation lists 144 gene features (98 CDS, 37 tRNA, 8 rRNA),
