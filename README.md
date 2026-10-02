@@ -1,6 +1,7 @@
 # CMB Plastid Genome: *Nicotiana tabacum*
 
 **Student:** Rhealyn F. Alama
+
 **Course/Section:** Cell and Molecular Biology - B
 
 This repository documents two connected laboratory activities on the plastid
