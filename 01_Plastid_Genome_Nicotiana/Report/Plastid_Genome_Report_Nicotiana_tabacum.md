@@ -1,8 +1,11 @@
 # Characterization of a Plastid Genome: *Nicotiana tabacum*
 
 **Name:** Rhealyn F. Alama
+
 **Course:** Cell and Molecular Biology
+
 **Genome retrieved:** September 29, 2026
+
 **Galaxy history:** Plastid_Nicotiana_ALAMA
 
 ---
