@@ -16,7 +16,7 @@ direction of transcription, full legend and intron asterisks enabled; PNG
 output.
 
 ## Plastid genome map
-![Plastid genome map](figures/Nicotiana_tabacum_plastid_map.png)
+![Plastid genome map](Figures/Nicotiana_tabacum_plastid_map.png)
 
 ## Main structural features
 The *N. tabacum* plastome has the typical quadripartite structure: a large
@@ -31,4 +31,4 @@ genes are marked with an asterisk (e.g., rpl2*, ndhB*, petB*). The GC content
 graph varies among regions rather than being uniform.
 
 ## Answers
-See [answers/Lab_plastid_genome_answers.md](Answers/Lab_plastid_genome_answers.md)
+See [Answers/Lab_plastid_genome_answers.md](Answers/Lab_plastid_genome_answers.md)
