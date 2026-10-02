@@ -23,7 +23,10 @@ and GenBank files were downloaded from the record page. The FASTA file was
 uploaded to usegalaxy.org and detected as fasta.
 
 **Galaxy history:** Plastid_Nicotiana_ALAMA
+
 **Tools used:** Fasta Statistics
+
+![Galaxy history and FASTA statistics](figures/galaxy_history_fasta_stats.png)
 
 
 ## Gene content and observations
